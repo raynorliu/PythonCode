@@ -1,3 +1,4 @@
+# 阶乘常规循环算法
 def factorial(n):
     result = n
     for i in range(1, n):
